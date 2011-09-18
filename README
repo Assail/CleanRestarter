@@ -1,0 +1,2 @@
+kills all eve clients
+then calls innerspace to restart the isboxer profile that is passed as an arg
